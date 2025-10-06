@@ -113,6 +113,8 @@ namespace ConsoleApp1
                 tourOperator.Show();
             }
 
+            Console.WriteLine();
+
 
             Console.ReadKey();
 
